@@ -8,7 +8,7 @@ public class Tarefa {
     this.descricao = descricao;
   }
 
-  public void showTask() {
+  public void exibirTarefa() {
     System.out.println(descricao);
   }
 
